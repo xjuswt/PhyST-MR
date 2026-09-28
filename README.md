@@ -1,7 +1,5 @@
 # PhyST-MR: public code package
 
-[简体中文](README.zh-CN.md)
-
 Training and inference code for four-grade mitral regurgitation (MR) classification with a physiology-guided spatial expert, a Kinetics-400 pretrained spatiotemporal expert, and class-wise probability fusion.
 
 **Code only.** This repository does not include echocardiograms, patient identifiers, structured measurements, checkpoints, or prediction files. Supply data that you are authorized to use. The model is a research system, not a clinical device.
