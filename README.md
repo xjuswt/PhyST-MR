@@ -94,7 +94,3 @@ python scripts/apply_fusion.py \
 ```
 
 `apply_fusion.py` does not need true labels or structured measurements.
-
-## Release boundary
-
-Do not commit restricted data, raw paths, SSH keys, checkpoints, or study-level predictions. Model weights and dataset access have separate distribution and licensing considerations. No source-code license is included at this stage.
